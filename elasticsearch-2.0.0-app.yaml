@@ -6,7 +6,7 @@ metadata:
     apps.kommander.d2iq.io/description: elastic description
     apps.kommander.d2iq.io/display-name: Elasticsearch
     apps.kommander.d2iq.io/scope: workspace
-    apps.kommander.d2iq.io/type: platform
+    apps.kommander.d2iq.io/type: custom
     apps.kommander.d2iq.io/overview: |-
      # Overview
      This sets up elasticsearch 
