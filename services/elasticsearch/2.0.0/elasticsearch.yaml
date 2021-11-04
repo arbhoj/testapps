@@ -21,7 +21,7 @@ spec:
   upgrade:
     remediation:
       retries: 30
-  releaseName: metallb
+  releaseName: elasticsearch
   valuesFrom:
     - kind: ConfigMap
       name: elasticsearch-2.0.0-d2iq-defaults
