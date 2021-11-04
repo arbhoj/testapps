@@ -25,4 +25,3 @@ spec:
     name: management
     namespace: kommander-flux
   version: 15.1.0
-EOF
